@@ -1,5 +1,105 @@
 [
   {
+    "title": "14 Prozent Wachstum: Warum Adidas plötzlich stärker dasteht als Nike",
+    "source": "FAZ",
+    "url": "https://www.faz.net/premium/meine-finanzen/aktien/adidas-aktie-staerker-als-nike-trotz-rueckschlaegen-accg-200821743.html",
+    "first_paragraph": "Adidas sponsert bald weder die Deutsche Nationalmannschaft noch den Ball für die Champions League. Operativ scheint der Sportmarkenhersteller stärker denn je. Die jüngsten Zahlen überraschen selbst optimistische Analysten.",
+    "summary": "Adidas sponsert bald weder die Deutsche Nationalmannschaft noch den Ball für die Champions League. Operativ scheint der Sportmarkenhersteller stärker denn je. Die jüngsten Zahlen überraschen selbst optimistische Analysten.",
+    "image_url": "https://media0.faz.net/image/6823937ce863/w2042h1149x0y0/202603/43601.0.1845331428/richtig-kuschelig-war-die.webp",
+    "timestamp": "2026-05-12T23:51:17.748766Z",
+    "category": "business"
+  },
+  {
+    "title": "50 Jahre Eisenbahnmuseum: Mit Volldampf in die Eisenbahngeschichte",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/eisenbahnmuseum-in-darmstadt-feiert-fuenzigjaehriges-bestehen-200804998.html",
+    "first_paragraph": "Mit einem Hauptgewinn in einem Preisausschreiben fing es an: Das Eisenbahnmuseum in Darmstadt-Kranichstein feiert den 50. Jahrestag seiner Gründung.",
+    "summary": "Mit einem Hauptgewinn in einem Preisausschreiben fing es an: Das Eisenbahnmuseum in Darmstadt-Kranichstein feiert den 50. Jahrestag seiner Gründung.",
+    "image_url": "https://media0.faz.net/image/5fc1aabdf4a5/w1600h900x0y84/202605/43601.0.2070623406/feiert-jubilaeum-das.webp",
+    "timestamp": "2026-05-12T23:51:00.899174Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Anguilla und seine Domain: Karibikinsel wird mit KI-Zufall reich",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/domain-ein-gluecklicher-zufall-macht-eine-karibikinsel-reich-dank-ki-200810322.html",
+    "first_paragraph": "Der Karibikinsel Anguilla wurde die Internet-Endung „.ai“ zugeteilt. Nun legen sich Techunternehmen Domains dort an, um Produkte mit Künstlicher Intelligenz zu vermarkten.",
+    "summary": "Der Karibikinsel Anguilla wurde die Internet-Endung „.ai“ zugeteilt. Nun legen sich Techunternehmen Domains dort an, um Produkte mit Künstlicher Intelligenz zu vermarkten.",
+    "image_url": "https://media0.faz.net/image/594a884d3bf3/w5464h3073x0y210/202605/43601.0.2073616223/der-strand-crocus-bay-auf.webp",
+    "timestamp": "2026-05-12T23:50:41.826298Z",
+    "category": "ai"
+  },
+  {
+    "title": "Wie Unternehmensberater Firmen retten - Insolvenz häufig vermeidbar",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/krise-restrukturierung-unternehmensberater-100.html",
+    "first_paragraph": "Die aktuellen Krisen bringen viele Unternehmen ins Wanken. Immer mehr suchen sich Hilfe von Unternehmensberatern. Die warnen: Viele Betriebe würden viel zu spät reagieren. Dabei sind die Erfolgschancen hoch.",
+    "summary": "Die aktuellen Krisen bringen viele Unternehmen ins Wanken. Immer mehr suchen sich Hilfe von Unternehmensberatern. Die warnen: Viele Betriebe würden viel zu spät reagieren. Dabei sind die Erfolgschancen hoch. Von Sven Marcinkowski.",
+    "image_url": "https://images.tagesschau.de/image/1ae5aa6b-d355-48c6-bb72-a99139a43caa/AAABnaoM8hA/AAABnSSvrFg/16x9-big/unternehmensberatung-102.jpg?width=1280",
+    "timestamp": "2026-05-12T23:50:05.892569Z",
+    "category": "business"
+  },
+  {
+    "title": "Zum 80. von Daniel Libeskind - Welterfolg für Mut in der Architektur",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/kultur/architekt-daniel-libeskind-80-100.html",
+    "first_paragraph": "Daniel Libeskind gilt an seinem 80. Geburtstag als einer der bedeutendsten Architekten weltweit. 1988 begann seine Karriere mit den Plänen für das Jüdische Museum in Berlin.",
+    "summary": "Daniel Libeskind gilt an seinem 80. Geburtstag als einer der bedeutendsten Architekten weltweit. 1988 begann seine Karriere mit den Plänen für das Jüdische Museum in Berlin. Von Nikolaus Bernau.",
+    "image_url": "https://images.tagesschau.de/image/dc7b3379-279c-4b1f-a5bf-262d0e6bd684/AAABnht9O00/AAABnSSvrFg/16x9-big/libeskind-104.jpg?width=1280",
+    "timestamp": "2026-05-12T23:49:49.894820Z",
+    "category": "arts"
+  },
+  {
+    "title": "1. FC Union Berlin: Marie-Louise Eta bricht ein ungeschriebenes Gesetz",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/1-fc-union-berlin-marie-louise-eta-bricht-ein-ungeschriebenes-gesetz-10035852",
+    "first_paragraph": "Der Auswärtssieg in Mainz stand beim 1. FC Union Berlin ganz im Zeichen der Trainerin. Marie-Louise Eta hatte im Vorfeld die richtige Wahl getroffen.",
+    "summary": "Der Auswärtssieg in Mainz stand beim 1. FC Union Berlin ganz im Zeichen der Trainerin. Marie-Louise Eta hatte im Vorfeld die richtige Wahl getroffen.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/12/7820ed60-e9d9-4a10-9797-2fe717053264.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-12T23:49:33.071640Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Nach monatelanger Sperre: Mieter der Stargarder Straße kehren endlich zurück",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/nach-monatelanger-sperre-mieter-der-stargarder-strasse-kehren-endlich-zurueck-10035675",
+    "first_paragraph": "Ein Kellerbrand vertrieb 120 Menschen in Prenzlauer Berg aus ihren Wohnungen. Ein unabhängiges Gutachten stoppte nun die Verzögerungstaktik der Vermieter.",
+    "summary": "Ein Kellerbrand vertrieb 120 Menschen in Prenzlauer Berg aus ihren Wohnungen. Ein unabhängiges Gutachten stoppte nun die Verzögerungstaktik der Vermieter.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/03/10/a5e4cb67-2b7a-420a-a05a-fd9339d44d13.webp?w=1024&auto=format",
+    "timestamp": "2026-05-12T23:49:21.379072Z",
+    "category": "business"
+  },
+  {
+    "title": "Kuntz-Nachfolge - Kathleen Krüger wird Sportvorständin bei Fußball-Erstligist Hamburger SV",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/kathleen-krueger-wird-sportvorstaendin-bei-fussball-erstligist-hamburger-sv-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/ae/6d/d7/f7/ae6dd7f7-13c5-430f-b3f4-39f56065e9c9/kathleen-krueger-100-1920x1920.jpg\" alt=\"Kathleen Krüger steht am Spielfeldrand, hinter ihr die Tribüne mit FC Bayern-Fans\" title=\"Kathleen Krüger steht am Spielfeldrand, hinter ihr die Tribüne mit FC Bayern",
+    "image_url": "https://bilder.deutschlandfunk.de/ae/6d/d7/f7/ae6dd7f7-13c5-430f-b3f4-39f56065e9c9/kathleen-krueger-100-1920x1080.jpg",
+    "timestamp": "2026-05-12T23:49:04.141288Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Würzburg - Katholikentag beginnt - Steinmeier und Söder zur Eröffnung erwartet",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/katholikentag-beginnt-steinmeier-und-soeder-zur-eroeffnung-erwartet-100.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/e8/0b/bc/c2/e80bbcc2-5407-4637-9ba9-c32bda0e0f03/katholikentag-100-1920x1920.jpg\" alt=\"Blaue und gelbe Banner für den Kirchentag sind in der Fußgängerzone von Würzburg angebracht. Darauf steht &quot;Hab Mut, steh auf!&quot;. Darunter gehen mehrere Fußgänge",
+    "image_url": "https://bilder.deutschlandfunk.de/e8/0b/bc/c2/e80bbcc2-5407-4637-9ba9-c32bda0e0f03/katholikentag-100-1920x1080.jpg",
+    "timestamp": "2026-05-12T23:48:45.651235Z",
+    "category": "religion"
+  },
+  {
+    "title": "Eurovision Song Contest 2026: ESC-Favoriten Finnland und Griechenland kommen ins Finale",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/feuilleton/musik/2026-05/eurovision-song-contest-2026-halbfinale-finnland-griechenland",
+    "first_paragraph": "Beim diesjährigen Eurovision Song Contest haben sich Favoriten aus Finnland und Griechenland für das Finale qualifiziert. Auch Israel, Schweden, Moldau, Serbien, Kroatien, Litauen, Polen und überraschend Belgien sind dabei. Deutschland trat außer Konkurrenz an, während Israel wegen Kontroversen um Kriege im Nahen Osten auf Buhrufe stieß. Die deutsche Sängerin Sarah Engels sorgte mit ihrem Auftritt für Hoffnung, obwohl sie in den Wettbüros hinten lag. Der ESC steckt zum 70. Jubiläum in der Krise,",
+    "summary": "Im ersten Halbfinale des Songwettbewerbs schieden fünf Teilnehmer aus. Das finnische Duo überzeugte mit einem spektakulär inszenierten Auftritt. Auch Israel kam weiter.",
+    "image_url": "https://img.zeit.de/feuilleton/musik/2026-05/eurovision-song-contest-2026-finnland-bild/original__640x360",
+    "timestamp": "2026-05-12T23:46:56.924307Z",
+    "category": "entertainment"
+  },
+  {
     "title": "EU-Einigung - Mehr wichtige Medikamente sollen in Europa hergestellt werden",
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/mehr-wichtige-medikamente-sollen-in-europa-hergestellt-werden-100.html",
