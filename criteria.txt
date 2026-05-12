@@ -1,0 +1,117 @@
+# ========================================
+# RALLY NEWS FILTERING CONFIGURATION (German Edition)
+# ========================================
+
+# NEGATIVE KEYWORDS
+# These words will REJECT an article if they appear in the HEADLINE (not the article body)
+# German and English terms are included — add or remove as needed
+
+[NEGATIVE_KEYWORDS]
+krieg, angriff, angriffe, gewalt, gewalttätig, konflikt, kämpfe, kampf, invasion, besatzung, streik, luftangriff, bombardierung, explosion, schießerei, artillerie, rakete, razzia, überfall, tod, tode, gestorben, sterben, stirbt, töten, getötet, mord, ermordet, attentat, opfer, todesopfer, massaker, genozid, hinrichtung, hingerichtet, schlachtung, katastrophe, verheerung, verheerend, zerstörung, zerstören, zerstört, kollaps, zusammenbruch, absturz, notfall, evakuierung, evakuieren, flucht, flüchten, ruinen, schäden, beschädigt, verletzte, verletzt, leiden, verbrechen, kriminalität, diebstahl, gestohlen, raub, beraubt, einbruch, betrug, korruption, bestechung, skandal, verhaftet, verhaftung, angeklagt, verurteilt, gefängnis, illegal, verstoß, pandemie, epidemie, ausbruch, infektion, infiziert, krankheit, erkrankung, krank, krankheit, virus, verseuchung, rezession, depression, inflation, deflation, arbeitslosigkeit, stellenabbau, insolvenz, konkurs, schulden, zahlungsausfall, krise, wirtschaftsabschwung, talfahrt, stagnation, entlassungen, entlassen, verluste, kontroverse, umstritten, streit, spannung, spannungen, zusammenstoß, fehde, riss, amtsenthebung, rücktritt, abgesetzt, protest, proteste, aufstand, unruhen, aufruhr, instabilität, scheitern, gescheitert, misserfolg, niederlage, verlieren, verloren, rückschlag, ablehnen, abgelehnt, ablehnung, veto, blockieren, blockiert, stillstand, angst, befürchtungen, bedrohung, bedrohen, gefahr, gefährlich, risiko, sorge, besorgt, panik, terror, terrorisieren, alarm, alarmierend, verschlechtern, schlechter werden, rückgang, sinken, abnehmen, fallen, abstürzen, absacken, sinken, schwächen, mangel, fehlend, defizit, knappheit, problem, probleme, schwierigkeiten, kampf, struggle, belastung, erdbeben, tsunami, hurrikan, tornado, überschwemmung, hochwasser, waldbrand, feuer, dürre, hungersnot, sturm, unfall, kollision, entgleisung, gekentert, diskriminierung, rassistisch, rassismus, hass, missbrauch, belästigung, ausbeutung, kriegseinsatz, truppen, soldaten getötet, verwundet, belagerung, blockade, sanktionen, absagen, storniert, ausgesetzt, verbot, verboten, einschränken, eingeschränkt, kürzen, kürzungen, streichung, eliminating, eliminated,
+war, attack, attacks, attacked, attacking, violence, violent, conflict, fighting, battle, combat, invasion, strike, strikes, airstrike, bombing, bombed, explosion, explode, shooting, shot, gunfire, artillery, missile, raid, assault, death, deaths, dead, die, died, dies, dying, kill, killed, killing, murder, murdered, assassination, assassinate, casualty, casualties, victim, victims, fatality, fatalities, massacre, genocide, execution, executed, slaughter, disaster, catastrophe, devastation, devastate, devastated, destruction, destroy, destroyed, collapse, crashed, emergency, evacuation, evacuate, flee, fleeing, ruins, damage, damaged, suffer, suffering, crime, criminal, theft, stolen, robbery, robbed, burglary, fraud, fraudulent, scam, corruption, bribe, bribery, scandal, arrested, arrest, charged, indicted, convicted, sentenced, prison, jail, illegal, violation, pandemic, epidemic, outbreak, infection, infected, disease, illness, sick, sickness, virus, contagion, contamination, recession, depression, inflation, deflation, unemployment, jobless, bankruptcy, bankrupt, debt, default, crisis, crises, downturn, slump, stagnation, layoff, layoffs, fired, losses, controversy, controversial, disputed, dispute, tension, tensions, clash, clashes, feud, rift, impeachment, impeach, resignation, resign, ousted, removed, protest, protests, riot, riots, unrest, turmoil, upheaval, instability, fail, failed, failure, defeat, defeated, loss, lose, lost, setback, reject, rejected, denial, denied, veto, vetoed, block, blocked, stall, stalled, deadlock, fear, fears, afraid, scary, threat, threaten, threatens, threatened, threatening, danger, dangerous, risk, risks, risky, worry, worried, worries, concern, concerned, concerns, anxiety, anxious, panic, terror, terrorize, terrified, alarm, alarming, worsen, worsens, worsening, worse, worst, deteriorate, deteriorating, decline, declining, declined, decrease, decreasing, drop, dropped, dropping, fall, fell, falling, plunge, plunged, plummeted, sink, sinking, tumble, tumbled, weaken, weakening, shortage, shortages, lack, lacking, deficit, gap, scarcity, scarce, depleted, depletion, problem, problems, issue, issues, trouble, difficulty, struggle, struggling, strain, earthquake, tsunami, hurricane, tornado, flood, flooding, wildfire, fire, drought, famine, storm, accident, collision, derailment, capsized, discrimination, racist, racism, hate, hatred, abuse, abused, harassment, harassed, exploit, exploitation, military action, troops, soldiers killed, wounded, siege, blockade, sanctions, cancel, cancelled, suspended, ban, banned, prohibit, forbidden, restrict, restricted, cut, cuts, reduction, eliminate, eliminated
+
+# POSITIVE KEYWORDS
+# These words will ACCEPT an article if they appear in the headline OR summary
+# German and English terms included
+
+[POSITIVE_KEYWORDS]
+durchbruch, erfolg, fortschritt, innovation, verbesserung, vortschritt, sieg, lösung, heilung, erholung, wachstum, vereinbarung, kooperation, frieden, deal, öffnung, eröffnung, launch, genehmigung, reform, schutz, rettung, waffenstillstand, wahl, einigung, investition, förderung, expansion, auszeichnung, preis, rekord, meilenstein,
+breakthrough, success, achieve, progress, innovation, improve, advance, win, victory, solution, cure, recovery, growth, agreement, cooperation, peace, deal, opens, launch, approve, reform, protect, save, ceasefire, elect, union, reaches deal, ends strike, passes, signed, funding, investment, expansion
+
+# ========================================
+# CATEGORY DETECTION KEYWORDS
+# ========================================
+
+[CATEGORY:climate]
+klima, klimaschutz, umwelt, kohlenstoff, emissionen, erneuerbar, solar, wind, grün, verschmutzung, naturschutz, nachhaltigkeit, fossile energie, globale erwärmung, treibhausgas,
+climate, environment, carbon, emissions, renewable, solar, wind, green, pollution, conservation, sustainability, fossil fuel, global warming, greenhouse
+
+[CATEGORY:transportation]
+verkehr, öpnv, u-bahn, s-bahn, bahn, eisenbahn, bus, autobahn, straße, brücke, tunnel, flughafen, flug, airline, schifffahrt, hafen, infrastruktur, pendler,
+transit, transportation, subway, train, rail, railway, bus, metro, highway, road, bridge, tunnel, airport, flight, airline, shipping, port, infrastructure, traffic, commute
+
+[CATEGORY:ai]
+ki, künstliche intelligenz, maschinelles lernen, technologie, wissenschaft, forschung, impfstoff, medizin, gesundheit, entdeckung, innovation, ingenieurswesen, weltraum, quantencomputer, roboter, biotechnologie, genetik, physik, chemie, biologie,
+ai, artificial intelligence, machine learning, technology, tech, science, scientific, research, study, vaccine, medical, health, discovery, innovation, engineering, space, quantum, robot, biotech, genetics, physics, chemistry, biology
+
+[CATEGORY:business]
+aktien, börse, handel, investition, investor, finanzen, bank, bankwesen, wirtschaft, zentralbank, zinsen, krypto, bitcoin, unternehmen, startup, unternehmer, ceo, fusion, übernahme, industrie, arbeit, gewerkschaft, arbeitnehmer, beschäftigung, lohn, gehalt,
+stock, market, trading, investment, investor, finance, financial, bank, banking, economy, economic, fed, interest rate, crypto, bitcoin, business, company, startup, entrepreneur, ceo, merger, acquisition, corporate, industry, labor, union, worker, employee, job, employment, wage, salary
+
+[CATEGORY:politics]
+wahl, wahlen, abstimmung, bundestag, bundesrat, parlament, politiker, politik, gesetz, regulation, regierung, bürgermeister, gouverneur, bundeskanzler, minister, demokratie, wahlkampf,
+election, vote, voting, legislature, congress, senate, parliament, politician, policy, legislation, law, bill, regulation, government, mayor, governor, president, minister, political, democracy, reform, campaign
+
+[CATEGORY:entertainment]
+film, kino, schauspieler, netflix, streaming, fernsehen, show, serie, musik, album, konzert, festival, band, künstler, unterhaltung, prominente, oscar, emmy, grammy, preis, spiel, gaming, videospiel, sport, bundesliga, fußball,
+film, movie, cinema, actor, actress, director, netflix, streaming, tv, television, show, series, music, album, song, concert, festival, band, artist, entertainment, celebrity, oscars, emmy, grammy, award, game, gaming, video game
+
+[CATEGORY:world]
+krieg, konflikt, frieden, waffenstillstand, international, nation, land, länder, diplomatisch, diplomatie, vertrag, global, außenpolitik, grenze, allianz, nato, uno, vereinte nationen,
+war, conflict, peace, ceasefire, international, nation, country, countries, diplomatic, diplomacy, treaty, global, foreign, border, territory, alliance, nato, un, united nations
+
+[CATEGORY:religion]
+kirche, moschee, tempel, synagoge, religion, religiös, glaube, christlich, muslimisch, jüdisch, hinduistisch, buddhistisch, papst, priester, imam, rabbiner, spirituell, gebet, gottesdienst, gott, heilig,
+church, mosque, temple, synagogue, religion, religious, faith, christian, muslim, jewish, hindu, buddhist, pope, priest, imam, rabbi, spiritual, prayer, worship, god, divine, sacred
+
+[CATEGORY:arts]
+FALLBACK - All articles that don't match other categories
+
+# ========================================
+# AI FILTERING CRITERIA
+# ========================================
+
+## What Makes a Positive News Story?
+
+A positive news story focuses primarily on **improvements to society** in one or more areas:
+- Climate / Klima
+- Entertainment / Unterhaltung
+- AI & Science & Technology / KI & Wissenschaft & Technologie
+- Arts & Culture / Kunst & Kultur
+- Business & Finance / Wirtschaft & Finanzen
+- Politics / Politik
+
+## Key Requirements
+
+The article **MUST** have a **clear idea for improvement**. It doesn't need to be purely positive, but must show:
+
+- Progress toward a solution / Fortschritt in Richtung einer Lösung
+- Cooperation or agreements / Zusammenarbeit oder Vereinbarungen
+- Breakthroughs or innovations / Durchbrüche oder Innovationen
+- New openings or launches / Neue Eröffnungen oder Starts
+- Reforms or policy improvements / Reformen oder Politikverbesserungen
+- Aid, protection, or rescue efforts / Hilfe, Schutz oder Rettungsmaßnahmen
+- Steps forward (even small ones) / Schritte nach vorne (auch kleine)
+- Deals or compromises reached / Erzielte Deals oder Kompromisse
+
+## Heavy Topics Can Be Positive
+
+Even articles about difficult subjects (war, strikes, protests) qualify if they show **forward movement**:
+
+✅ "Russland und Ukraine einigen sich auf dreitägigen Waffenstillstand" - Fortschritt in Richtung Frieden
+✅ "Gewerkschaft erzielt Einigung – Streik beendet" - Lösung erreicht
+✅ "Neue Regierung verspricht demokratische Reformen" - Demokratischer Fortschritt
+✅ "ASEAN-Gipfel beschließt Maßnahmen gegen Wirtschaftskrise" - Proaktive Lösungen
+
+## What to REJECT
+
+❌ Pure crisis/disaster with no solutions / Reine Krise/Katastrophe ohne Lösungen
+❌ Negative events with no improvement angle / Negative Ereignisse ohne Verbesserungsansatz
+❌ Escalating conflicts with no progress / Eskalierende Konflikte ohne Fortschritt
+❌ Stories about fears, warnings, threats with no action taken / Berichte über Befürchtungen ohne Maßnahmen
+
+## Examples of Positive Angles
+
+- "Mietpreisbremse verlängert" → Wohnkostenentlastung
+- "U-Bahn-Linie in Stuttgart eröffnet" → Infrastrukturverbesserung
+- "Wissenschaftler näher an HIV-Impfstoff" → Medizinischer Fortschritt
+- "Deutschland und Frankreich einigen sich auf Klimapakt" → Diplomatischer Durchbruch
+- "Solarstrom deckt Rekordanteil des Strombedarfs" → Energiewende-Erfolg
+- "Bundesliga-Verein erhält UNESCO-Auszeichnung" → Kulturelle Anerkennung
+
+## Guiding Principle
+
+Ask: **"Does this show society moving forward in some way? / Zeigt das, dass die Gesellschaft sich in irgendeiner Weise vorwärtsbewegt?"**
+
+If YES → It's positive news for Rally.
+If NO → Reject it.
