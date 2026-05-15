@@ -1,5 +1,65 @@
 [
   {
+    "title": "Antarktis-Mission - Forschungsschiff \"Polarstern\" zurück in Bremerhaven",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/forschungsschiff-polarstern-zurueck-in-bremerhaven-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/77/ef/5b/c6/77ef5bc6-8590-4cdf-952a-ef80c406d609/polarstern-expedition-arktis-100-1920x1920.jpg\" alt=\"Im Vordergrund ein Wissenschaftler auf einem Schneemobil auf einer Eisscholle , im Hintergrund der Forschungseisbrecher Polarstern. Aufgenommen im Weddell",
+    "image_url": "https://bilder.deutschlandfunk.de/77/ef/5b/c6/77ef5bc6-8590-4cdf-952a-ef80c406d609/polarstern-expedition-arktis-100-1920x1080.jpg",
+    "timestamp": "2026-05-15T23:45:04.739556Z",
+    "category": "climate"
+  },
+  {
+    "title": "GesundheitsReform: Macht mit, liebe Mediziner!",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/aerztetag-und-gkv-reform-macht-mit-liebe-mediziner-200833707.html",
+    "first_paragraph": "Ärzte sollten die Veränderungen der gesetzlichen Krankenversicherung vorantreiben. Dann wären sogar Beitragssenkungen für die Versicherten drin.",
+    "summary": "Ärzte sollten die Veränderungen der gesetzlichen Krankenversicherung vorantreiben. Dann wären sogar Beitragssenkungen für die Versicherten drin.",
+    "image_url": "https://media0.faz.net/image/0cb63246862b/w5760h3240x0y300/202605/43601.0.2072493565/medizinerprotest-waehrend-des.webp",
+    "timestamp": "2026-05-15T23:44:40.603332Z",
+    "category": "politics"
+  },
+  {
+    "title": "Scottish Premiership: Endspiel um Schottlands Fußballkrone",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/sport/fussball/schottland-beendet-heart-of-midlothian-die-celtic-vorherrschaft-200834279.html",
+    "first_paragraph": "Der schottische Tabellenführer Heart of Midlothian kann im direkten Duell mit Celtic Glasgow seine erste Meisterschaft seit 66 Jahren gewinnen – und damit eine Vorherrschaft beenden, die das Land seit Jahrzehnten prägt.",
+    "summary": "Der schottische Tabellenführer Heart of Midlothian kann im direkten Duell mit Celtic Glasgow seine erste Meisterschaft seit 66 Jahren gewinnen – und damit eine Vorherrschaft beenden, die das Land seit Jahrzehnten prägt.",
+    "image_url": "https://media0.faz.net/image/aa0886ec482c/w3000h1687x0y117/202601/43601.0.1701734947/die-hearts-haben-celtic-in.webp",
+    "timestamp": "2026-05-15T23:44:25.449160Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Wasserscheu: Die Urangst wegblubbern",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/familie/2026-05/wasserscheu-angst-wassergewoehnung-schwimmen-kinder-erziehung",
+    "first_paragraph": "Im Hamburger Kindergarten Fischbeker Höfe lernen Kinder spielerisch das Element Wasser kennen, um Ängste abzubauen und frühzeitig schwimmen zu lernen. Die steigende Anzahl von Nichtschwimmern unter Grundschulkindern alarmiert die Deutsche Lebens-Rettungs-Gesellschaft. In Kooperation mit dem Schwimmbadbetreiber Bäderland werden Kitafachkräfte zu Schwimmlotsen ausgebildet, um die Wassergewöhnung zu fördern. Die enge Bindung zur Erzieherin und das Gruppengefühl helfen den Kindern, ihre Ängste zu üb",
+    "summary": "Der Mensch fürchtet das Wasser. Also müssen Kinder lernen, ihre Scheu zu verlieren. In Hamburger Kitas gibt es dafür jetzt ein Programm – schließlich geht es um Leben.",
+    "image_url": "https://img.zeit.de/familie/2026-05/wasserscheu-angst-wassergewoehnung-schwimmen-kinder-erziehung-2/original__640x360",
+    "timestamp": "2026-05-15T23:43:50.063404Z",
+    "category": "climate"
+  },
+  {
+    "title": "Festivals: Humorvoller Auftakt für Dresdner Musikfestspiele",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/news/2026-05/15/humorvoller-auftakt-fuer-dresdner-musikfestspiele",
+    "first_paragraph": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "summary": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "image_url": "https://img.zeit.de/news/2026-05/15/humorvoller-auftakt-fuer-dresdner-musikfestspiele-image-group/original__640x360",
+    "timestamp": "2026-05-15T23:42:53.760895Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Christian Thielemann und Igor Levit spielen Hans Pfitzners Klavierkonzert",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/christian-thielemann-und-igor-levit-spielen-hans-pfitzners-klavierkonzert-10036301",
+    "first_paragraph": "Kommende Woche führt die Staatskapelle Berlin ein selten gespieltes Werk auf. Hans Pfitzner wollte die reine „deutsche“ Musik. Was man über ihn wissen sollte.",
+    "summary": "Kommende Woche führt die Staatskapelle Berlin ein selten gespieltes Werk auf. Hans Pfitzner wollte die reine „deutsche“ Musik. Was man über ihn wissen sollte.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/14/98bf09ed-b863-4584-bb6d-9dbf0f0a2ac0.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-15T23:42:14.959193Z",
+    "category": "arts"
+  },
+  {
     "title": "Washington - Libanon und Israel verlängern Waffenruhe um 45 Tage",
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/libanon-und-israel-verlaengern-waffenruhe-um-45-tage-100.html",
