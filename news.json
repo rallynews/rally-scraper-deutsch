@@ -1,5 +1,65 @@
 [
   {
+    "title": "Chip-Start-up Mythic: Mit dieser Idee will ein Ex-Nvidia-Manager Jensen Huang übertrumpfen",
+    "source": "FAZ",
+    "url": "https://www.faz.net/premium/digitalwirtschaft/transformation/chip-start-up-mythic-so-will-der-ceo-nvidia-uebertrumpfen-accg-200848075.html",
+    "first_paragraph": "Der ehemalige Nvidia-Manager Taner Ozcelik will mit der Hilfe eines deutschen Chip-Unternehmens den Energiehunger der Künstlichen Intelligenz zähmen. Sein Versprechen: hundertmal effizienter als die Konkurrenz sein.",
+    "summary": "Der ehemalige Nvidia-Manager Taner Ozcelik will mit der Hilfe eines deutschen Chip-Unternehmens den Energiehunger der Künstlichen Intelligenz zähmen. Sein Versprechen: hundertmal effizienter als die Konkurrenz sein.",
+    "image_url": "https://media0.faz.net/image/9b7b5177ca07/w969h545x14y0/202605/433893a702-538f-11f1-9ee0-abebfd7d5c09/mythics-me1076-m-2-karte-der.webp",
+    "timestamp": "2026-05-21T00:00:46.133120Z",
+    "category": "ai"
+  },
+  {
+    "title": "Schluss mit kaputten Klos: Neues Portal bietet Erste Hilfe für Schulen",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/ekel-vor-der-schultoilette-wenn-kinder-aus-angst-das-trinken-meiden-10037445",
+    "first_paragraph": "Marode Klos gefährden die Gesundheit der Schülerschaft. Ein neues Projekt der German Toilet Organization setzt auf Mitbestimmung und schnelle Maßnahmen.",
+    "summary": "Marode Klos gefährden die Gesundheit der Schülerschaft. Ein neues Projekt der German Toilet Organization setzt auf Mitbestimmung und schnelle Maßnahmen.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/20/e0311ba2-7c39-4ce3-9969-0438d9437477.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-21T00:00:11.382243Z",
+    "category": "world"
+  },
+  {
+    "title": "Rechtspolitik - Reparieren statt wegwerfen: Bundestag berät über neues Recht für Verbraucher und neue Pflichten für Hersteller sowie Händler",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/reparieren-statt-wegwerfen-bundestag-beraet-ueber-neues-recht-fuer-verbraucher-und-neue-pflichten-fu-100.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/6e/5a/a2/2e/6e5aa22e-a8be-4b00-88bc-e1ec8d4bf962/elektroschrott-muell-reparieren-100-1920x1920.jpg\" alt=\"Alte Mobiltelefone liegen auf einem Haufen.\" title=\"Alte Mobiltelefone liegen auf einem Haufen.\" width=\"1920\" height=\"1920\" border=\"0\" align=\"left\" hsp",
+    "image_url": "https://bilder.deutschlandfunk.de/6e/5a/a2/2e/6e5aa22e-a8be-4b00-88bc-e1ec8d4bf962/elektroschrott-muell-reparieren-100-1920x1080.jpg",
+    "timestamp": "2026-05-20T23:58:32.348047Z",
+    "category": "politics"
+  },
+  {
+    "title": "Personalausweis, Führerschein, Tickets - Bundeskabinett bringt digitale Brieftasche auf den Weg",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/bundeskabinett-bringt-digitale-brieftasche-auf-den-weg-102.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/43/d0/f2/1a/43d0f21a-240f-4882-9ea8-fd58ad439024/buerger-hackathon-100-1920x1920.jpg\" alt=\"Die Hand eines Mitarbeiters hält im Ministerium für Digitales und Staatsmodernisierung ein Smartphone mit der App des Projektes EUDI-Wallet (European Digital Identit",
+    "image_url": "https://bilder.deutschlandfunk.de/43/d0/f2/1a/43d0f21a-240f-4882-9ea8-fd58ad439024/buerger-hackathon-100-1920x1080.jpg",
+    "timestamp": "2026-05-20T23:58:15.692380Z",
+    "category": "politics"
+  },
+  {
+    "title": "Bis zu 1,75 Billionen Dollar wert - SpaceX reicht Unterlagen für Rekord-Börsengang ein",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/spacex-reicht-unterlagen-fuer-rekord-boersengang-ein-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/8a/1a/af/f5/8a1aaff5-bc4d-4874-9735-d6e77200e64b/elon-musk-132-1920x1920.jpg\" alt=\"SpaceX-Gründer Elon Musk winkt dem Publikum zu, nachdem erfolgreichen Start einer Falcon-9-Rakete mit dem Raumschiff Crew Dragon vom Startplatz 39A im Kennedy Space Center g",
+    "image_url": "https://bilder.deutschlandfunk.de/8a/1a/af/f5/8a1aaff5-bc4d-4874-9735-d6e77200e64b/elon-musk-132-1920x1080.jpg",
+    "timestamp": "2026-05-20T23:57:58.221461Z",
+    "category": "business"
+  },
+  {
+    "title": "Chipherstellter: Nvidia steigert Quartalsgewinn um 85 Prozent",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-05/chiphersteller-nvidia-quartal-gewinn-85-prozent",
+    "first_paragraph": "Nvidia verzeichnet enormen Umsatz- und Gewinnsprung dank steigender Nachfrage nach Hochleistungsprozessoren für Künstliche Intelligenz. Der US-Konzern konnte seinen Umsatz im letzten Quartal um 85 Prozent auf 81,6 Milliarden US-Dollar steigern. Jensen Huang, Gründer von Nvidia, bezeichnete den Bau von KI-Rechenzentren als das größte Infrastrukturprojekt der Menschheitsgeschichte. Das Unternehmen plant Aktienrückkäufe im Wert von 80 Milliarden Dollar und erhöht die Quartalsdividende deutlich. Nvi",
+    "summary": "Nvidia wächst im KI-Boom weiter. Im abgelaufenen Quartal legte der Umsatz des Chipkonzerns erneut zu. Die Erlöse mit Chips für Rechenzentren verdoppelten sich nahezu.",
+    "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2026-05/chiphersteller-nvidia-quartal-gewinn-85-prozent-bild/original__640x360",
+    "timestamp": "2026-05-20T23:56:16.081580Z",
+    "category": "business"
+  },
+  {
     "title": "Kulturpolitik - Sachsen-Anhalt verankert Unterstützung von Kunst und Kultur im Gesetz",
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/sachsen-anhalt-verankert-unterstuetzung-von-kunst-und-kultur-im-gesetz-100.html",
