@@ -1,5 +1,145 @@
 [
   {
+    "title": "Bundestag billigt drei neue Bahnstrecken",
+    "source": "ARD",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-bahnstrecken-neubau-100.html",
+    "first_paragraph": "Im Norden, Osten und Süden: Der Bundestag hat den Planungen für drei neue Bahnstrecken zugestimmt. Die Finanzierung ist noch lückenhaft, bis Baubeginn wird aber ohnehin noch Zeit vergehen.",
+    "summary": "Im Norden, Osten und Süden: Der Bundestag hat den Planungen für drei neue Bahnstrecken zugestimmt. Die Finanzierung ist noch lückenhaft, bis Baubeginn wird aber ohnehin noch Zeit vergehen.",
+    "image_url": "https://images.tagesschau.de/image/b96d877b-a398-426c-8c95-e791f0dc2067/AAABnkw033k/AAABnSSvrFg/16x9-big/marschbahn-sylt-100.jpg?width=1280",
+    "timestamp": "2026-05-22T10:41:01.991400Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Solarer Langzeitspeicher: Hoffnung für die Wärmewende",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/wissen/physik-mehr/wiederverwendbare-molekulare-waermebatterie-entkoppelt-tag-und-nacht-accg-200841357.html",
+    "first_paragraph": "Sonnenlicht lässt sich photochemisch in neuartigen Materialien speichern und bei Bedarf freisetzen. So steht solare Wärme auch nachts zur Verfügung – ohne große Verluste.",
+    "summary": "Sonnenlicht lässt sich photochemisch in neuartigen Materialien speichern und bei Bedarf freisetzen. So steht solare Wärme auch nachts zur Verfügung – ohne große Verluste.",
+    "image_url": "https://media0.faz.net/image/8ebb1bd65503/w3000h1687x0y161/200906/431.0.58246115/sonnenkollektoren-des.webp",
+    "timestamp": "2026-05-22T10:40:27.530774Z",
+    "category": "climate"
+  },
+  {
+    "title": "SV Elversberg: Frank Holzer ist der Unternehmer hinter dem Erfolg des Vereins",
+    "source": "Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/sv-elversberg-frank-holzer-ist-der-unternehmer-hinter-dem-erfolg-des-vereins-a-131442be-29c3-4207-abed-e5df3e348dce#ref=rss",
+    "first_paragraph": "Sie können den Artikel leider nicht mehr aufrufen. Der Link, der Ihnen geschickt wurde, ist entweder älter als 30 Tage oder der Artikel wurde bereits 10 Mal geöffnet.",
+    "summary": "Der Aufstieg des SV Elversberg in die Bundesliga ist die vielleicht größte Erfolgsgeschichte im deutschen Fußball. Sie ist eng verknüpft mit Frank Holzer, Ex-Profi, und Chef des Augentropfen-Herstellers Ursapharm. Wer ist der Mann?",
+    "image_url": "https://cdn.prod.www.spiegel.de/images/16f6372c-cacc-4c97-bca8-588022a57b9d_w520_r2.08_fpx47_fpy50.jpg",
+    "timestamp": "2026-05-22T10:39:54.421564Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Bundestag berät über antragloses Kindergeld",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-elterngeld-einschnitte-prien-reaktionen-100.html",
+    "first_paragraph": "Eltern sollen künftig Kindergeld ohne komplizierte Anträge erhalten. Heute befasst sich der Bundestag damit. Für Kritik sorgen Sparüberlegungen der Familienministerin beim Elterngeld.",
+    "summary": "Eltern sollen künftig Kindergeld ohne komplizierte Anträge erhalten. Heute befasst sich der Bundestag damit. Für Kritik sorgen Sparüberlegungen der Familienministerin beim Elterngeld.",
+    "image_url": "https://images.tagesschau.de/image/3f61f4ed-fde5-4079-87db-f67b8e73b8f1/AAABnk8HDvE/AAABnSSvrFg/16x9-big/kinder-spielplatz-106.jpg?width=1280",
+    "timestamp": "2026-05-22T10:39:23.829950Z",
+    "category": "politics"
+  },
+  {
+    "title": "Stimmung bei Unternehmen und Verbrauchern verbessert sich überraschend",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklimaindex-konsum-verbraucherstimmung-100.html",
+    "first_paragraph": "Trotz der andauernden Unsicherheiten, die unter anderem der Iran-Krieg schürt, blicken die Unternehmen etwas positiver in die Zukunft. Ähnlich überraschend stieg auch die Stimmung bei Verbrauchern.",
+    "summary": "Trotz der andauernden Unsicherheiten, die unter anderem der Iran-Krieg schürt, blicken die Unternehmen etwas positiver in die Zukunft. Ähnlich überraschend stieg auch die Stimmung bei Verbrauchern.",
+    "image_url": "https://images.tagesschau.de/image/30aa6bb2-e181-4a73-a6a9-10467d4da66c/AAABnk7FVfI/AAABnSSvrFg/16x9-big/maschinenbau-162.jpg?width=1280",
+    "timestamp": "2026-05-22T10:39:02.967150Z",
+    "category": "business"
+  },
+  {
+    "title": "Fußball-Bundesliga: Bericht: Wagner bleibt Trainer des 1. FC Köln",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/news/2026-05/22/bericht-wagner-bleibt-trainer-des-1-fc-koeln",
+    "first_paragraph": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "summary": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "image_url": "https://img.zeit.de/news/2026-05/22/bericht-wagner-bleibt-trainer-des-1-fc-koeln-image-group/original__640x360",
+    "timestamp": "2026-05-22T10:38:42.820732Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Digitalisierung: Gründen in 24 Stunden: Sachsen bei Pilotprojekt dabei",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/news/2026-05/22/gruenden-in-24-stunden-sachsen-bei-pilotprojekt-dabei",
+    "first_paragraph": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "summary": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "image_url": "https://img.zeit.de/news/2026-05/22/gruenden-in-24-stunden-sachsen-bei-pilotprojekt-dabei-image-group/original__640x360",
+    "timestamp": "2026-05-22T10:38:22.278734Z",
+    "category": "business"
+  },
+  {
+    "title": "Hygge the Farm: Frisch aus dem Beet",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/2026/19/hygge-the-farm-hamburg-restaurant-gaertnerei",
+    "first_paragraph": "Farm to table ist nicht nur ein Trend, sondern ein Konzept, das die Nähe zwischen Anbau und Verzehr betont. Das Hygge the Farm in Nienstedten zeigt, wie Gastronomie und Landwirtschaft zusammenwachsen können. Hier werden frische Kräuter und Gemüse direkt vom ehemaligen Blumengarten auf den Tisch gebracht. Die Gäste können nicht nur die Speisen genießen, sondern auch die Gewächshäuser erkunden, in denen die Pflanzen kunterbunt durcheinander wachsen. Die Verbindung von Anbau und Verzehr sorgt für e",
+    "summary": "Restaurants, die ihr eigenes Biogemüse anbauen, gibt es auf dem Land häufiger. Wie aber schafft das ein Restaurant mitten in Hamburg? Ein Besuch",
+    "image_url": "https://img.zeit.de/2026/19/frisch-aus-dem-beet-bild-2/original__640x360",
+    "timestamp": "2026-05-22T10:38:00.429925Z",
+    "category": "climate"
+  },
+  {
+    "title": "Bundespolitik: Bundestag beschließt niedrigere Steuer für Flugtickets",
+    "source": "Sueddeutsche Zeitung",
+    "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundestag-beschluss-flugticket-steuer-li.3484192",
+    "first_paragraph": "Mit der Gesetzesänderung sinkt die Abgabe je nach Strecke um einen Betrag zwischen 2,50 Euro und 11,40 Euro pro Flug. Der Bundestag stimmt auch der weiteren Planung neuer Bahnstrecken zu.",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/05/22/46207de8-7517-4d2e-8a75-a6750b74020f.jpg?rect=935%2C160%2C3065%2C2299&width=1000&fm=jpg&q=60\" data-portal-copyright=\"Boris Roessler/dpa\" /><p>Mit der Gesetzesänderung sinkt die Abgabe je nach Strecke um einen Betrag zwischen 2,50 Euro und 11,40 Euro p",
+    "image_url": "https://www.sueddeutsche.de/2026/05/22/46207de8-7517-4d2e-8a75-a6750b74020f.jpg?q=60&fm=webp&width=1200&rect=0%2C140%2C4000%2C2250",
+    "timestamp": "2026-05-22T10:37:36.282663Z",
+    "category": "politics"
+  },
+  {
+    "title": "Sommerfestival: erste Höhepunkte: Schauspielstar Sandra Hüller eröffnet das Filmfest München",
+    "source": "Sueddeutsche Zeitung",
+    "url": "https://www.sueddeutsche.de/muenchen/muenchen-filmfest-2026-sandra-hueller-toni-servillo-vaterland-kino-li.3475931",
+    "first_paragraph": "Von Cannes nach München: Die international gefeierte deutsche Schauspielerin Sandra Hüller wird Ende Juni das 43. Filmfest eröffnen. Auch der preisdekorierte Italiener Toni Servillo reist als Ehrengast an. Das sind weitere Höhepunkte des Sommerfestivals.",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/05/22/a5a0ac9e-42a1-4c59-899f-d3d798b7a5f6.jpg?rect=222%2C0%2C3556%2C2667&width=1000&fm=jpg&q=60\" data-portal-copyright=\"Scott A Garfitt/AP Photo\" /><p>Von Cannes nach München: Die international gefeierte deutsche Schauspielerin Sandra Hüller wird Ende Juni",
+    "image_url": "https://www.sueddeutsche.de/2026/05/22/a5a0ac9e-42a1-4c59-899f-d3d798b7a5f6.jpg?q=60&fm=webp&width=1200&rect=0%2C42%2C4000%2C2250",
+    "timestamp": "2026-05-22T10:37:12.851772Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Carolabrücke in Dresden: Dann startet Bürgerbeteiligung in entscheidende Phase",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/buergerbeteiligung-carolabruecke-10037798",
+    "first_paragraph": "Vom 13. Juni bis 17. Juli können die Dresdner über vier Entwürfe für die neue Carolabrücke abstimmen. Baubürgermeister Stephan Kühn verspricht ein transparentes Verfahren",
+    "summary": "Vom 13. Juni bis 17. Juli können die Dresdner über vier Entwürfe für die neue Carolabrücke abstimmen. Baubürgermeister Stephan Kühn verspricht ein transparentes Verfahren",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/21/cbf99742-6304-4dab-8164-0f99de40b4f7.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-22T10:36:48.547147Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Sonne und milde Temperaturen: Mecklenburg-Vorpommern erwartet viele Spontanurlauber zu Pfingsten",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/sonne-und-milde-temperaturen-mecklenburg-vorpommern-erwartet-viele-spontanurlauber-zu-pfingsten-10037902",
+    "first_paragraph": "Mecklenburg-Vorpommerns Hotelgewerbe erwartet zu Pfingsten bei Sonne und 28 Grad eine Auslastung von 76 Prozent. Spontanurlauber sollen für zusätzliche Nachfrage sorgen.",
+    "summary": "Mecklenburg-Vorpommerns Hotelgewerbe erwartet zu Pfingsten bei Sonne und 28 Grad eine Auslastung von 76 Prozent. Spontanurlauber sollen für zusätzliche Nachfrage sorgen.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/22/7bc38ad0-7558-419a-8edd-2ab2d29a9591.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-22T10:36:27.450151Z",
+    "category": "business"
+  },
+  {
+    "title": "Dieses Wochenende in Berlin: Operngesang, Ausstellungen und Aperitif",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/ankuendigungen-22-bis-24-mai-10037470",
+    "first_paragraph": "Mit frühsommerlichen Temperaturen, jeder Menge Ausstellungen und Gesang zeigt sich Berlin am  Pfingstwochenende vom 22. bis 25. Mai besonders lebendig.",
+    "summary": "Mit frühsommerlichen Temperaturen, jeder Menge Ausstellungen und Gesang zeigt sich Berlin am&nbsp; Pfingstwochenende vom 22. bis 25. Mai besonders lebendig.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/20/42949fb5-6287-45b4-bc80-dc9d097a1747.png?w=1024&auto=format",
+    "timestamp": "2026-05-22T10:36:09.231954Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "An diesen Berliner Orten fühlen sich Stars wie im Urlaub",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/an-diesen-berliner-orten-fuehlen-sich-stars-wie-im-urlaub-10034107",
+    "first_paragraph": "Badesee statt Bali, Park statt Panama: Lena Gercke, Blümchen, Sophia Thiel und Marina Hoermanseder verraten, wo sich Berlin für sie wie Urlaub anfühlt.",
+    "summary": "Badesee statt Bali, Park statt Panama: Lena Gercke, Blümchen, Sophia Thiel und Marina Hoermanseder verraten, wo sich Berlin für sie wie Urlaub anfühlt.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/15/bdfe9060-9d19-4f6a-a6e6-c72a1f423555.png?w=1024&auto=format",
+    "timestamp": "2026-05-22T10:35:49.538231Z",
+    "category": "entertainment"
+  },
+  {
     "title": "Handball-Bundesliga - Magdeburg zum vierten Mal deutscher Meister",
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/magdeburg-zum-vierten-mal-deutscher-meister-116.html",
