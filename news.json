@@ -1,5 +1,85 @@
 [
   {
+    "title": "Stadtwerke Jena erhalten Erlaubnis für Geothermie-Pläne",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/stadtwerke-jena-erhalten-erlaubnis-fuer-geothermie-plaene-10037949",
+    "first_paragraph": "Die Stadtwerke Energie Jena-Pößneck haben die Erlaubnis erhalten, nach nutzbarer Erdwärme zu suchen. Damit beginnen erste Schritte für ein mögliches Geothermie-Vorhaben.",
+    "summary": "Die Stadtwerke Energie Jena-Pößneck haben die Erlaubnis erhalten, nach nutzbarer Erdwärme zu suchen. Damit beginnen erste Schritte für ein mögliches Geothermie-Vorhaben.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/22/439d4ec1-89a1-4676-ae64-febad65464bc.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-23T23:18:51.067413Z",
+    "category": "climate"
+  },
+  {
+    "title": "Digitale Infrastruktur: Sachsen-Anhalt meldet Fortschritte beim Netzausbau",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/digitale-infrastruktur-sachsen-anhalt-meldet-fortschritte-beim-netzausbau-10037959",
+    "first_paragraph": "Das Infrastrukturministerium in Magdeburg legt neue Zahlen zum Netzausbau vor. Demnach hat sich die Versorgung in den vergangenen vier Jahren deutlich verbessert.",
+    "summary": "Das Infrastrukturministerium in Magdeburg legt neue Zahlen zum Netzausbau vor. Demnach hat sich die Versorgung in den vergangenen vier Jahren deutlich verbessert.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/22/b32aa2c1-1011-4505-9855-77a4cb9f3a19.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-23T23:18:32.685272Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Ostdeutschlands Privatschlösser öffnen erstmals zu Pfingsten Tore und Türen",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/ostdeutschlands-privatschloesser-oeffnen-erstmals-zu-pfingsten-die-tueren-10037730",
+    "first_paragraph": "Ostdeutsche Schloss- und Gutsherrenbesitzer laden am 25. Mai erstmalig zum 1. Ostdeutschen Schlössertag ein: 48 Schlösser, Burgen und Gutshäuser können zwischen Ostsee und Osterzgebirge besichtigt werden.",
+    "summary": "Ostdeutsche Schloss- und Gutsherrenbesitzer laden am 25. Mai erstmalig zum 1. Ostdeutschen Schlössertag ein: 48 Schlösser, Burgen und Gutshäuser können zwischen Ostsee und Osterzgebirge besichtigt werden.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/21/7f94d551-98af-4909-a023-fe712b62fc59.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-23T23:18:14.296480Z",
+    "category": "arts"
+  },
+  {
+    "title": "Rhein-Main-Feierabendbriefing: Hessen plant Drohnenkompetenzzentrum",
+    "source": "FAZ",
+    "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/kassel-calden-hessen-plant-forschungszentrum-fuer-drohnen-200860832.html",
+    "first_paragraph": "Neues Forschungszentrum am Flughafen Kassel-Calden. Weitere Ermittlungen gegen Feldmann-Liste. Wenig Einigkeit bei Römer-Sondierungen und Metallica kommt nach Frankfurt. Der F.A.Z.-Podcast Rhein-Main Feierabend-Briefing informiert über die Themen der Region.",
+    "summary": "Neues Forschungszentrum am Flughafen Kassel-Calden. Weitere Ermittlungen gegen Feldmann-Liste. Wenig Einigkeit bei Römer-Sondierungen und Metallica kommt nach Frankfurt. Der F.A.Z.-Podcast Rhein-Main Feierabend-Briefing informiert über die Themen der Region.",
+    "image_url": "https://media0.faz.net/image/184bc4e9ff25/w4252h2392x0y222/202208/43600.0.1113053944/ruhige-lage-der-flughafen.webp",
+    "timestamp": "2026-05-23T23:17:51.886048Z",
+    "category": "business"
+  },
+  {
+    "title": "EU und Mexiko unterzeichnen Freihandelsabkommen",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/ausland/amerika/eu-mexiko-freihandelsabkommen-100.html",
+    "first_paragraph": "Angesichts der undurchsichtigen Zollpolitik von US-Präsident Trump rücken Mexiko und die EU näher zusammen: Beide Seiten unterzeichneten jetzt ein Freihandelsabkommen, in dem es um den Abbau von Zöllen geht, etwa bei landwirtschaftlichen Produkten.",
+    "summary": "Angesichts der undurchsichtigen Zollpolitik von US-Präsident Trump rücken Mexiko und die EU näher zusammen: Beide Seiten unterzeichneten jetzt ein Freihandelsabkommen, in dem es um den Abbau von Zöllen geht, etwa bei landwirtschaftlichen Produkten.",
+    "image_url": "https://images.tagesschau.de/image/308ea9f6-3dc7-41f4-8502-76e7fc79ff6d/AAABnlH3QQM/AAABnSSvrFg/16x9-big/costa-sheinbaum-von-der-leyen-100.jpg?width=1280",
+    "timestamp": "2026-05-23T23:16:48.518131Z",
+    "category": "business"
+  },
+  {
+    "title": "Radsport - Dritter Etappensieg für Jonas Vingegaard beim Giro d'Italia",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/dritter-etappensieg-fuer-jonas-vingegaard-beim-giro-d-italia-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/85/8f/ae/62/858fae62-2973-43ca-82ae-7e53eca5e1e6/vingegaard-100-1920x1920.jpg\" alt=\"Jonas Vingegaard fährt über die Ziellinie beim Giro d&apos;Italia. Er trägt ein blaues Trikot und einen roten Helm. Hinter ihm fährt ein rotes Auto. \" title=\"Jonas Vingegaa",
+    "image_url": "https://bilder.deutschlandfunk.de/85/8f/ae/62/858fae62-2973-43ca-82ae-7e53eca5e1e6/vingegaard-100-1920x1080.jpg",
+    "timestamp": "2026-05-23T23:16:21.579741Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Erfolgreiche Familien: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus",
+    "first_paragraph": "Susan Dominus untersucht in ihrem Buch die Rolle von Geschwistern in erfolgreichen Familien und betont die Bedeutung des familiären Umfelds für den individuellen Erfolg. Sie porträtiert sechs amerikanische Familien, die entweder aus schwierigen Verhältnissen stammen oder unkonventionelle Wege gegangen sind. Trotz unterschiedlicher Erziehungsstile haben alle Familien Neugierde und Optimismus gemeinsam. Geschwister gelten als soziales Kapital, das den Erfolg beeinflussen kann, wobei ältere Geschwi",
+    "summary": "Eine Familie, drei Geschwister, alle machen als Erwachsene Karriere. Gibt es eine Erfolgsformel? Susan Dominus hat nach dem Geheimnis erfolgreicher Familien gesucht.",
+    "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus-bild/original__640x360",
+    "timestamp": "2026-05-23T23:15:33.409826Z",
+    "category": "business"
+  },
+  {
+    "title": "FC Bayern gewinnt DFB-Pokal: Ein Pokal für Harry Kane",
+    "source": "Sueddeutsche Zeitung",
+    "url": "https://www.sueddeutsche.de/sport/dfb-pokal-fc-bayern-vfb-stuttgart-harry-kane-tore-li.3488192",
+    "first_paragraph": "Ein Hattrick des Stürmers führt den FC Bayern zu einem 3:0 gegen den VfB Stuttgart im Pokalfinale und zum Double. Nur in der ersten Halbzeit werden die Münchner vor große Schwierigkeiten gestellt.",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/05/23/fc933b05-d898-49b0-9bae-fcf7e9f553bb.jpg?rect=162%2C0%2C3253%2C2440&width=1000&fm=jpg&q=60\" data-portal-copyright=\"Michael Kappeler/Michael Kappeler/dpa\" /><p>Ein Hattrick des Stürmers führt den FC Bayern zu einem 3:0 gegen den VfB Stuttgart im Pokalf",
+    "image_url": "https://www.sueddeutsche.de/2026/05/23/fc933b05-d898-49b0-9bae-fcf7e9f553bb.jpg?q=60&fm=webp&width=1200&rect=0%2C190%2C4000%2C2250",
+    "timestamp": "2026-05-23T23:14:11.852102Z",
+    "category": "entertainment"
+  },
+  {
     "title": "Demokratie braucht laut Steinmeier \"aktive Bürger\"",
     "source": "ARD",
     "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ehrentag-grundgesetz-100.html",
