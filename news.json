@@ -1,5 +1,115 @@
 [
   {
+    "title": "EU-Gelder - Von der Leyen gibt mehr als 16 Milliarden für Ungarn frei",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/von-der-leyen-gibt-mehr-als-16-milliarden-fuer-ungarn-frei-102.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/ac/2e/74/86/ac2e7486-2dd4-442d-a476-c731cd907c82/eu-von-der-leyen-ungarn-100-1920x1920.jpg\" alt=\"EU-Kommissionspräsidentin von der Leyen trifft sich in Brüssel mit dem neuen ungarischen Ministerpräsidenten Magyar\" title=\"EU-Kommissionspräsidentin von der L",
+    "image_url": "https://bilder.deutschlandfunk.de/ac/2e/74/86/ac2e7486-2dd4-442d-a476-c731cd907c82/eu-von-der-leyen-ungarn-100-1920x1080.jpg",
+    "timestamp": "2026-05-30T00:21:03.057805Z",
+    "category": "politics"
+  },
+  {
+    "title": "Artenschutz - Zehntausende Maifischlarven im Rhein ausgesetzt",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/zehntausende-maifischlarven-im-rhein-ausgesetzt-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/34/a2/53/49/34a25349-8705-4f80-9780-04406b66b980/maifisch-100-1920x1920.jpg\" alt=\"Vertreter mehrerer Bundesländer schütten Gläser voller Maifischlarven in den Rhein.\" title=\"Vertreter mehrerer Bundesländer schütten Gläser voller Maifischlarven in den Rhein",
+    "image_url": "https://bilder.deutschlandfunk.de/34/a2/53/49/34a25349-8705-4f80-9780-04406b66b980/maifisch-100-1920x1080.jpg",
+    "timestamp": "2026-05-30T00:20:32.258294Z",
+    "category": "climate"
+  },
+  {
+    "title": "US-Wirtschaft: KI rettet Trumps Konjunktur",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/us-wirtschaft-ki-rettet-trumps-konjunktur-200880312.html",
+    "first_paragraph": "Trotz Zollpolitik, Einwanderungsstreit und Irankrieg wächst Amerikas Wirtschaft weiter. Der Grund liegt in einem gewaltigen Investitionsboom. Von dem kann Deutschland nur träumen.",
+    "summary": "Trotz Zollpolitik, Einwanderungsstreit und Irankrieg wächst Amerikas Wirtschaft weiter. Der Grund liegt in einem gewaltigen Investitionsboom. Von dem kann Deutschland nur träumen.",
+    "image_url": "https://media0.faz.net/image/4209d3ee03da/w8934h5025x0y281/202601/43601.0.1639345451/hier-tut-sich-was-google-und.webp",
+    "timestamp": "2026-05-30T00:20:04.895588Z",
+    "category": "business"
+  },
+  {
+    "title": "Yad Vashem in Deutschland: Netanjahu wird die Gedenkkultur nicht beeinflussen",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/politik/inland/yad-vashem-in-deutschland-netanjahu-wird-die-gedenkkultur-nicht-beeinflussen-200880543.html",
+    "first_paragraph": "Die Holocaust-Gedenkstätte Yad Vashem will zwei Niederlassungen in Deutschland eröffnen. Die Befürchtung, die israelische Regierung könnte sie instrumentalisieren, ist übertrieben.",
+    "summary": "Die Holocaust-Gedenkstätte Yad Vashem will zwei Niederlassungen in Deutschland eröffnen. Die Befürchtung, die israelische Regierung könnte sie instrumentalisieren, ist übertrieben.",
+    "image_url": "https://media0.faz.net/image/67aad6698dcc/w5245h2951x262y445/202605/43601.0.2156783468/holocaust-gedenkstaette-yad.webp",
+    "timestamp": "2026-05-30T00:19:46.743397Z",
+    "category": "politics"
+  },
+  {
+    "title": "Bester spielfilm: „In die Sonne schauen“ gewinnt beim Deutschen Filmpreis zehn Lolas",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/deutscher-filmpreis-geht-an-in-die-sonne-schauen-200882175.html",
+    "first_paragraph": "„In die Sonne schauen“ ist der große Abräumer beim Deutschen Filmpreis. Das Drama von Mascha Schilinski gewinnt zehn Auszeichnungen, darunter die Goldene Lola für den besten Spielfilm.",
+    "summary": "„In die Sonne schauen“ ist der große Abräumer beim Deutschen Filmpreis. Das Drama von Mascha Schilinski gewinnt zehn Auszeichnungen, darunter die Goldene Lola für den besten Spielfilm.",
+    "image_url": "https://media0.faz.net/image/33ae55b2ec8d/w6000h3375x0y375/202605/43601.0.2162798652/die-produzenten-von-in-die.webp",
+    "timestamp": "2026-05-30T00:19:24.549160Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Weltfußballer Ousmane Dembélé erklärt sich fit fürs Champions-League-Finale",
+    "source": "Spiegel",
+    "url": "https://www.spiegel.de/sport/fussball/weltfussballer-ousmane-dembele-erklaert-sich-fit-fuers-champions-league-finale-a-e5058550-bfe4-47e3-9233-fe3a9b11ffce#ref=rss",
+    "first_paragraph": "Paris Saint-Germain hat im Endspiel der Königsklasse einen fitten Ousmane Dembélé im Aufgebot. Zuletzt war der Weltfußballer und Ballon-d’Or-Gewinner angeschlagen. »Ich bin zu 100 Prozent bereit«, sagte der 29-jährige Franzose vor dem Duell gegen den FC Arsenal am Samstag in Budapest. Angst, das Finale zu verpassen, habe er nicht gehabt: »Ich hatte 10 bis 15 Tage, um mich wieder in Form zu bringen.«",
+    "summary": "Ousmane Dembélé scheint bereit zu sein für das Duell mit dem FC Arsenal. Für Paris Saint-Germain geht es um die Titelverteidigung, für die Londoner mit Kai Havertz wäre ein Triumph historisch.",
+    "image_url": "https://cdn.prod.www.spiegel.de/images/c6456f42-03d5-42e5-8e0e-51417d385d2a_w520_r2.08_fpx53.32_fpy49.99.jpg",
+    "timestamp": "2026-05-30T00:19:03.349966Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "KfW-Kommunalpanel - 500-Milliarden-Sondervermögen fließt vor allem in Straßen, Schulen, Katastrophenschutz, Kinderbetreuung und Sport",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/500-milliarden-sondervermoegen-fliesst-vor-allem-in-strassen-schulen-katastrophenschutz-kinderbetreu-100.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/FI/LE/_4/6c/FILE_46cb648fad1438a308d4dfa2a1d9b223/119174861-jpg-100-768x768.jpg\" alt=\"Schlaglöcher im Teer im niedersächsischen Oderhaus, die durch den winterlichen Frost entstanden sind.\" title=\"Schlaglöcher im Teer im niedersächsischen Oderhaus, die durc",
+    "image_url": "https://bilder.deutschlandfunk.de/FI/LE/_4/6c/FILE_46cb648fad1438a308d4dfa2a1d9b223/119174861-jpg-100-1920x1080.jpg",
+    "timestamp": "2026-05-30T00:18:10.139668Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Deutscher Filmpreis geht an Senta Berger",
+    "source": "Spiegel",
+    "url": "https://www.spiegel.de/kultur/deutscher-filmpreis-geht-an-senta-berger-a-e6aac41c-2f88-4b03-8563-0606de09fdf9#ref=rss",
+    "first_paragraph": "Schauspielerin Senta Berger (85) ist für ihre Rolle in der Buchverfilmung »Ach, diese Lücke, diese entsetzliche Lücke« mit dem Deutschen Filmpreis ausgezeichnet worden. Berger nahm den Preis als beste Hauptdarstellerin bei der Verleihung in Berlin entgegen.",
+    "summary": "Senta Berger (85) erhält für ihre Rolle in «Ach, diese Lücke, diese entsetzliche Lücke» den Deutschen Filmpreis. Auf der Bühne kommt es zu einem sehr persönlichen Moment.",
+    "image_url": "https://cdn.prod.www.spiegel.de/images/954bacc0-4ea9-47a7-9fdc-2567ac06ea37_w520_r2.08_fpx48.29_fpy49.99.jpg",
+    "timestamp": "2026-05-30T00:17:37.537712Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Platt snacken: «Kuddelmuddel» ist plattdeutsches Wort des Jahres",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/news/2026-05/30/kuddelmuddel-ist-plattdeutsches-wort-des-jahres",
+    "first_paragraph": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "summary": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "image_url": "https://img.zeit.de/news/2026-05/30/kuddelmuddel-ist-plattdeutsches-wort-des-jahres-image-group/original__640x360",
+    "timestamp": "2026-05-30T00:17:00.515567Z",
+    "category": "arts"
+  },
+  {
+    "title": "Fernsehen: Anna-Carina Woitschack gewinnt «Let's Dance»",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/news/2026-05/30/anna-carina-woitschack-gewinnt-let-s-dance",
+    "first_paragraph": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "summary": "DIE ZEIT hat diese Meldung redaktionell nicht bearbeitet. Sie wurde automatisch von der Deutschen Presse-Agentur (dpa) übernommen.",
+    "image_url": "https://img.zeit.de/news/2026-05/30/anna-carina-woitschack-gewinnt-let-s-dance-image-group/original__640x360",
+    "timestamp": "2026-05-30T00:16:42.852033Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Tennis: Zverev steht bei French Open im Achtelfinale",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/sport/2026-05/alexander-zverev-sieg-french-open-einzug-achtelfinale",
+    "first_paragraph": "Alexander Zverev erreicht nach einem Sieg in vier Sätzen das Achtelfinale der French Open in Paris und ist nun Favorit auf den Titel, nachdem Djokovic ausgeschieden ist. Von den Top-Fünf der Weltrangliste ist nur noch Zverev im Turnier. Der Hamburger besiegte Quentin Halys nach drei Stunden und sieben Minuten Spielzeit. Zverev dominierte die ersten beiden Sätze, musste aber im dritten einen Rückschlag hinnehmen, bevor er im vierten wieder stärker wurde. Trotz kleinerer Schwächen zeigte sich Zver",
+    "summary": "Alexander Zverev hat nach einem Sieg über den Franzosen Halys in Paris das Achtelfinale erreicht. Nach Novak Djokovics Ausscheiden ist er der große Favorit auf den Titel.",
+    "image_url": "https://img.zeit.de/sport/2026-05/tennis-french-open-bild/original__640x360",
+    "timestamp": "2026-05-30T00:16:21.836423Z",
+    "category": "entertainment"
+  },
+  {
     "title": "Kapitalmarktunion - Große EU-Länder einigen sich auf gemeinsame Position bei Finanzaufsicht",
     "source": "Deutschlandfunk",
     "url": "https://www.deutschlandfunk.de/grosse-eu-laender-einigen-sich-auf-gemeinsame-position-bei-finanzaufsicht-100.html",
