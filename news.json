@@ -1,5 +1,85 @@
 [
   {
+    "title": "Hamburg: Wie sich eine Grundschule von der Last der Schulranzen befreit",
+    "source": "Spiegel",
+    "url": "https://www.spiegel.de/panorama/bildung/hamburg-wie-sich-eine-grundschule-von-der-last-der-schulranzen-befreit-a-54b89eae-43e2-4435-8130-3aa001e00be5#ref=rss",
+    "first_paragraph": "Erstklässler mit Schulranzen: »Die meisten Kinder hatten nur ihre Federmappe, eine Trinkflasche und den Schulplaner darin.«",
+    "summary": "Vor der Einschulung steht für viele Eltern eine teure Investition: Ein neuer Schulranzen soll her. Eine Hamburger Grundschule schert aus. Hier reicht ein Rucksack. Schulleiterin Denise Piontek erklärt, wie es dazu kam.",
+    "image_url": "https://cdn.prod.www.spiegel.de/images/81bbe7b0-f1c6-47d9-937b-ae28df624fdd_w520_r2.08_fpx45.93_fpy45.jpg",
+    "timestamp": "2026-05-31T10:03:27.013977Z",
+    "category": "world"
+  },
+  {
+    "title": "Depression: Ein Berliner Arzt behandelt Patienten mit Hirn-Computer-Schnittstellen",
+    "source": "Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/medizin/depression-ein-berliner-arzt-behandelt-patienten-mit-hirn-computer-schnittstellen-a-3a37a370-0370-4b05-ba57-52738f559a15#ref=rss",
+    "first_paragraph": "Elektrodenkappe zur Messung von Hirnströmen: Beachtliche Erfolge bei Lähmungen, Zwangsstörungen und Depressionen",
+    "summary": "Der Berliner Arzt Surjo Soekadar entwickelt Therapien gegen psychische Krankheiten und die Folgen von Schlaganfällen. Dafür geht er einen radikal neuen Weg: Er programmiert den Takt der Gehirnzellen um.",
+    "image_url": "https://cdn.prod.www.spiegel.de/images/7e662975-433d-4f0e-83ed-0ec787ec2a5a_w520_r2.08_fpx47.33_fpy44.99.jpg",
+    "timestamp": "2026-05-31T10:03:06.944751Z",
+    "category": "ai"
+  },
+  {
+    "title": "Kann der Inlandstourismus der deutschen Wirtschaft helfen?",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/tourismus-deutschland-132.html",
+    "first_paragraph": "Der Inlandstourismus boomt. Investoren setzen auf Ferienparks in Deutschland, wovon nicht nur Einzelhändler und Restaurants profitieren. Hilft das im Konjunkturtief?",
+    "summary": "Der Inlandstourismus boomt. Investoren setzen auf Ferienparks in Deutschland, wovon nicht nur Einzelhändler und Restaurants profitieren. Hilft das im Konjunkturtief? Von Inga Thiede und Dirk Bitzer.",
+    "image_url": "https://images.tagesschau.de/image/01adf187-4361-4ad8-8432-a768c874fd48/AAABnmi-H-Q/AAABnSSvrFg/16x9-big/ferienpark-100.jpg?width=1280",
+    "timestamp": "2026-05-31T10:02:47.754666Z",
+    "category": "business"
+  },
+  {
+    "title": "Roséwein aus Deutschland: Die Winzer mit der roséroten Brille",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/rosewein-deutschland-winzer-weinbranche-wein-trauben",
+    "first_paragraph": "Deutsche Winzer entdecken die Welt des Rosé-Weins: Von Spitzenwinzern wie Friedrich Becker bis hin zu aufstrebenden Gütern wie dem Weingut Rings - der Rosé erlebt eine Renaissance. Durch innovative Herstellungsmethoden und hochwertige Trauben entstehen qualitativ überragende Roséweine, die nicht nur für den Swimmingpool, sondern auch für die feine Tafel gedacht sind. Der Rückgang des Rotweinkonsums und der Trend zu leichterer, vegetarischer Küche tragen zur steigenden Beliebtheit von Rosé bei. S",
+    "summary": "Lange wurde Rosé aus Resten produziert. Nun entstehen hervorragende Weine aus besten Trauben. Die deutschen Winzer nehmen die Gattung endlich ernst – weil sie es müssen.",
+    "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/rosewein-deutschland-winzer-weinbranche-wein-trauben-bild/original__640x360",
+    "timestamp": "2026-05-31T10:02:26.811652Z",
+    "category": "business"
+  },
+  {
+    "title": "Bundesliga: Adi Hütter wird erneut Trainer von Eintracht Frankfurt",
+    "source": "Die Zeit",
+    "url": "https://www.zeit.de/sport/2026-05/bundesliga-eintracht-frankfurt-adi-huetter-trainer",
+    "first_paragraph": "Adi Hütter kehrt als Trainer zu Eintracht Frankfurt zurück, nachdem er bereits von 2018 bis 2021 erfolgreich tätig war. Der Österreicher übernimmt das Amt von Albert Riera und unterzeichnete einen Vertrag bis 2029. Hütter betonte die Besonderheit und Emotion, wieder Teil des Vereins zu sein, der ihn geprägt habe. Sportvorstand Markus Krösche lobte Hütters Stil als Trainer, der für mutigen Offensivfußball, Klarheit und Disziplin stehe. Der Fokus liege auf temporeichem Umschaltfußball mit Ballbesi",
+    "summary": "Eintracht Frankfurt bekommt mit Adi Hütter einen Trainer, mit dem sie es bereits ins Halbfinale der Europa League geschafft hatten. Er übernimmt von Albert Riera.",
+    "image_url": "https://img.zeit.de/sport/2026-05/adi-huetter-eintracht-frankfurt-trainer-fussball/original__640x360",
+    "timestamp": "2026-05-31T10:02:08.062297Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Medizin: Wird Hepatitis B heilbar?",
+    "source": "Sueddeutsche Zeitung",
+    "url": "https://www.sueddeutsche.de/gesundheit/hepatitis-b-behandlung-li.3491610",
+    "first_paragraph": "Diese Zusammenfassung wurde mit der Unterstützung einer generativen künstlichen Intelligenz\n          erstellt. Lesen Sie mehr über unseren Umgang mit KI.",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2025/11/21/bd62f63c-e3c6-4941-8d78-f37e4181434d.jpg?rect=223%2C0%2C3555%2C2666&width=1000&fm=jpg&q=60\" data-portal-copyright=\"IMAGO/IMAGO/HalfPoint Images\" /><p>Erstmals zeigen zwei große Studien, dass eine chronische Hepatitis B funktionell geheilt werden kann.",
+    "image_url": "https://www.sueddeutsche.de/2025/11/21/bd62f63c-e3c6-4941-8d78-f37e4181434d.jpg?q=60&fm=webp&width=1200&rect=0%2C208%2C4000%2C2250",
+    "timestamp": "2026-05-31T10:01:50.052441Z",
+    "category": "world"
+  },
+  {
+    "title": "Neue Zugverbindungen ab Berlin: Mit nur einem Umstieg nach Oslo und zu den Polarlichtern",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/neue-zugverbindungen-ab-berlin-mit-nur-einem-umstieg-nach-oslo-und-zu-den-polarlichtern-10045653",
+    "first_paragraph": "Der private Fernzugbetreiber Snälltåget bietet neue Strecken an. Auch das Bahn-Start-up GoVolta baut sein Berlin-Angebot aus. Die Züge sind gut gebucht.",
+    "summary": "Der private Fernzugbetreiber Snälltåget bietet neue Strecken an. Auch das Bahn-Start-up GoVolta baut sein Berlin-Angebot aus. Die Züge sind gut gebucht.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/30/2eed5ce9-a0d7-4bad-8bb3-dbdca7c407cd.heif?w=1024&auto=format",
+    "timestamp": "2026-05-31T10:01:30.827216Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Drohnen, Turboprop und Fallschirmspringer: Die ILA erwartet 95.000 Besucher",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/drohnen-turboprop-und-fallschirmspringer-die-ila-erwartet-95000-besucher-10039282",
+    "first_paragraph": "Bei der Luft- und Raumfahrtmesse ILA im Juni präsentieren 750 Aussteller aus 37 Ländern ihre Entwicklungen. Es gibt ein volles Programm.",
+    "summary": "Bei der Luft- und Raumfahrtmesse ILA im Juni präsentieren 750 Aussteller aus 37 Ländern ihre Entwicklungen. Es gibt ein volles Programm.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/28/6647b54c-d620-4b52-b6d1-796c44fe6ad5.jpg?w=1024&auto=format",
+    "timestamp": "2026-05-31T10:01:13.376207Z",
+    "category": "transportation"
+  },
+  {
     "title": "F.A.Z. exklusiv: So will Schwarz-Rot die Kreislaufwirtschaft voranbringen",
     "source": "FAZ",
     "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/so-will-schwarz-rot-die-kreislaufwirtschaft-voranbringen-accg-200882611.html",
