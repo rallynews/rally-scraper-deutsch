@@ -1,5 +1,105 @@
 [
   {
+    "title": "Tennis - Polin Chwalinska steht im Finale der French Open",
+    "source": "Deutschlandfunk",
+    "url": "https://www.deutschlandfunk.de/polin-chwalinska-steht-im-finale-der-french-open-106.html",
+    "first_paragraph": "Wirtschaftlich und militärisch gehören die Vereinigten Staaten zu den mächtigsten Ländern der Erde, mit großem Einfluss auf das aktuelle Weltgeschehen.",
+    "summary": "<img src=\"https://bilder.deutschlandfunk.de/9a/98/ec/0f/9a98ec0f-7407-4066-a71d-950000877add/tennis-frankreich-paris-french-open-finale-polen-maja-chwalinska-100-1920x1920.jpg\" alt=\"Maja Chwalinska freut sich nach ihrem Sieg und schlägt die rechte Hand vor das Gesicht.\" title=\"Maja Chwalinska freut ",
+    "image_url": "https://bilder.deutschlandfunk.de/9a/98/ec/0f/9a98ec0f-7407-4066-a71d-950000877add/tennis-frankreich-paris-french-open-finale-polen-maja-chwalinska-100-1920x1080.jpg",
+    "timestamp": "2026-06-04T23:53:43.705524Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Regierung will Kreislaufwirtschaft mit Aktionsplan ankurbeln",
+    "source": "ARD",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-kreislaufwirtschaft-100.html",
+    "first_paragraph": "Mit einem neuen Programm will die Bundesregierung Recycling stärken und unabhängiger von Rohstoffimporten werden. Was bedeutet der Plan für Wirtschaft und Verbraucher und wie fallen die Reaktionen aus?",
+    "summary": "Mit einem neuen Programm will die Bundesregierung Recycling stärken und unabhängiger von Rohstoffimporten werden. Was bedeutet der Plan für Wirtschaft und Verbraucher und wie fallen die Reaktionen aus? Von Dietrich Karl Mäurer.",
+    "image_url": "https://images.tagesschau.de/image/4da7f931-f040-40d5-b74e-78ebae165960/AAABno4TQcw/AAABnSSvrFg/16x9-big/autobatterien-100.jpg?width=1280",
+    "timestamp": "2026-06-04T23:53:19.807791Z",
+    "category": "climate"
+  },
+  {
+    "title": "Natrium-Ionen-Batterien: „Da steckt viel geheimes Know-how drin“",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/wissen/physik-mehr/akku-fuer-e-auto-co-natrium-statt-lithium-rwth-aachen-testet-accg-200887792.html",
+    "first_paragraph": "Natrium statt Lithium: Eine neue Batterietechnologie könnte die Rohstoffabhängigkeit beenden. Forscher von der RWTH Aachen haben ein aktuelles Modell aus China zerlegt – und waren überrascht von der technischen Reife.",
+    "summary": "Natrium statt Lithium: Eine neue Batterietechnologie könnte die Rohstoffabhängigkeit beenden. Forscher von der RWTH Aachen haben ein aktuelles Modell aus China zerlegt – und waren überrascht von der technischen Reife.",
+    "image_url": "https://media0.faz.net/image/c39d94bd089c/w2948h1658x0y312/201109/431.0.49949691/viele-e-auto-fahrer-wuenschen.webp",
+    "timestamp": "2026-06-04T23:52:56.857357Z",
+    "category": "climate"
+  },
+  {
+    "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-nachfrage-100.html",
+    "first_paragraph": "E-Autos werden in Deutschland immer beliebter. Jeder vierte Neuwagen im Mai war ein Fahrzeug mit Elektroantrieb. Das liegt nicht nur an der neuen Kaufprämie der Bundesregierung - die auch negative Folgen hat.",
+    "summary": "E-Autos werden in Deutschland immer beliebter. Jeder vierte Neuwagen im Mai war ein Fahrzeug mit Elektroantrieb. Das liegt nicht nur an der neuen Kaufprämie der Bundesregierung - die auch negative Folgen hat. Von Till Bücker.",
+    "image_url": "https://images.tagesschau.de/image/27e4c0e6-e5fe-44f4-8795-288a05639eef/AAABnpFuE2k/AAABnSSvrFg/16x9-big/e-auto-230.jpg?width=1280",
+    "timestamp": "2026-06-04T23:52:37.649593Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Warum Volkswagen seine neuen E-Kleinwagen in Spanien produziert",
+    "source": "Tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/vw-id-polo-spanien-seat-elektroautos-100.html",
+    "first_paragraph": "Von Volkswagen kommen bald mehrere Elektro-Kleinwagen auf den Markt - die in Spanien gefertigt werden. Das Land lockt mit Subventionen, günstigem Solarstrom und niedrigeren Lohnkosten.",
+    "summary": "Von Volkswagen kommen bald mehrere Elektro-Kleinwagen auf den Markt - die in Spanien gefertigt werden. Das Land lockt mit Subventionen, günstigem Solarstrom und niedrigeren Lohnkosten. Von Hans-Günter Kellner.",
+    "image_url": "https://images.tagesschau.de/image/65a11780-65ce-4953-99a3-2547ede6bc53/AAABnpFSB6s/AAABnSSvrFg/16x9-big/autowerk-martorell-100.jpg?width=1280",
+    "timestamp": "2026-06-04T23:52:17.338960Z",
+    "category": "business"
+  },
+  {
+    "title": "Verzicht auf Palantir: CDU, SPD und BSW einigen sich auf neues Polizeigesetz für Sachsen",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/verzicht-auf-palantir-cdu-spd-und-bsw-einigen-sich-auf-neues-polizeigesetz-fuer-sachsen-10062901",
+    "first_paragraph": "CDU, SPD und BSW haben sich in Sachsen auf ein neues Polizeigesetz verständigt. Zentraler Punkt war der Verzicht auf die Überwachungssoftware des US-Unternehmens Palantir.",
+    "summary": "CDU, SPD und BSW haben sich in Sachsen auf ein neues Polizeigesetz verständigt. Zentraler Punkt war der Verzicht auf die Überwachungssoftware des US-Unternehmens Palantir.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2017/2/15/5d7161aa-faf8-3f3b-bc89-18a6d5d62b48.jpg?w=1024&auto=format",
+    "timestamp": "2026-06-04T23:51:44.930283Z",
+    "category": "politics"
+  },
+  {
+    "title": "limitiert: Audi Nuvolari: 1000 und eine Macht",
+    "source": "FAZ",
+    "url": "https://www.faz.net/aktuell/technik-motor/motor/1000-und-eine-macht-das-ist-audis-neuer-supersportler-nuvolari-200896559.html",
+    "first_paragraph": "Von einem technologischen Aufbruch ist in Ingolstadt die Rede, von einem Statement für die Zukunft. Und von Mut. Letzteres lässt sich nicht leugnen, geht es um Audis neuen Supersportwagen Nuvolari.",
+    "summary": "Von einem technologischen Aufbruch ist in Ingolstadt die Rede, von einem Statement für die Zukunft. Und von Mut. Letzteres lässt sich nicht leugnen, geht es um Audis neuen Supersportwagen Nuvolari.",
+    "image_url": "https://media0.faz.net/image/4a0dd6798bff/w1587h892x166y113/202606/43601.0.2181841171/im-namen-des-herrn-audis-neuer.webp",
+    "timestamp": "2026-06-04T23:51:09.799302Z",
+    "category": "transportation"
+  },
+  {
+    "title": "Berlin hat noch Schäfer: Knut Kucznik kämpft in Altglienicke für seine Herde",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/berlin-hat-noch-schaefer-knut-kucznik-kaempft-in-altglienicke-fuer-seine-herde-10056663",
+    "first_paragraph": "Schafhirten wirken für viele wie Figuren aus einer vergangenen Welt. Doch es gibt sie noch: in Brandenburg ohnehin, aber auch in Berlin. Und gerade jetzt machen die Schäfer mobil.",
+    "summary": "Schafhirten wirken für viele wie Figuren aus einer vergangenen Welt. Doch es gibt sie noch: in Brandenburg ohnehin, aber auch in Berlin. Und gerade jetzt machen die Schäfer mobil.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/06/03/6afea6c8-d6f6-41bf-9ff8-dcf813ebdac7.jpg?w=1024&auto=format",
+    "timestamp": "2026-06-04T23:50:19.257804Z",
+    "category": "climate"
+  },
+  {
+    "title": "„Das große Wohnzimmer“: Warum Studieren in Ostdeutschland besonders Spaß macht",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/das-grosse-wohnzimmer-warum-studieren-in-ostdeutschland-besonders-spass-macht-10037793",
+    "first_paragraph": "Renommierte Forschung – das ist ein wichtiger Aspekt an Hochschulen. Aber wie leben und feiern Studenten im Osten? Eine frühsommerliche Reise durch vier Universitätsstädte.",
+    "summary": "Renommierte Forschung – das ist ein wichtiger Aspekt an Hochschulen. Aber wie leben und feiern Studenten im Osten? Eine frühsommerliche Reise durch vier Universitätsstädte.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/29/82c574b7-88cb-4e93-bebf-ff668aef0d6a.jpg?w=1024&auto=format",
+    "timestamp": "2026-06-04T23:50:02.615227Z",
+    "category": "entertainment"
+  },
+  {
+    "title": "Reiten an der Ostsee – Selbstversuch für eine Nichtreiterin",
+    "source": "Berliner Zeitung",
+    "url": "https://www.berliner-zeitung.de/article/reiten-an-der-ostsee-selbstversuch-fuer-eine-nichtreiterin-10047781",
+    "first_paragraph": "Reiten am Strand ist für viele Menschen ein Urlaubstraum. Die Bernsteinreiter machen diesen Traum für Reiter wie Einsteiger wahr und bieten noch viel mehr.",
+    "summary": "Reiten am Strand ist für viele Menschen ein Urlaubstraum. Die Bernsteinreiter machen diesen Traum für&nbsp;Reiter wie Einsteiger wahr und bieten noch viel mehr.",
+    "image_url": "https://berliner-zeitung-msp-prod.imgix.net/2026/05/31/14c58c42-6aa3-49c5-9415-d6ffbbdcdb6c.jpg?w=1024&auto=format",
+    "timestamp": "2026-06-04T23:49:44.425639Z",
+    "category": "entertainment"
+  },
+  {
     "title": "maría montserrat alvarado: Für den Vatikan spricht künftig eine Frau",
     "source": "FAZ",
     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/papst-leo-xiv-maria-montserrat-alvarado-wird-kommunikationschefin-200898566.html",
